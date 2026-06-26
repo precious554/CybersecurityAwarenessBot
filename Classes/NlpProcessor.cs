@@ -1,6 +1,6 @@
 ﻿namespace CybersecurityAwarenessBot.Classes
 {
-    // Detects the user's intent using keyword matching.
+    // Detects the user's intent using keyword matching
     public class NlpProcessor
     {
         public string DetectIntent(string input)
