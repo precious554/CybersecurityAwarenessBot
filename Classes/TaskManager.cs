@@ -5,7 +5,7 @@ using CybersecurityAwarenessBot.Models;
 
 namespace CybersecurityAwarenessBot.Classes
 {
-    // Handles cybersecurity task management and database operations.
+    // Handles cybersecurity task management and database operations
     public class TaskManager
     {
       private string connectionString =
