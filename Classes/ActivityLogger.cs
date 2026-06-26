@@ -4,6 +4,7 @@ using System.Linq;
 
 namespace CybersecurityAwarenessBot.Classes
 {
+    // Records and retrieves chatbot activities.
     public class ActivityLogger
     {
         private List<string> activities = new List<string>();
